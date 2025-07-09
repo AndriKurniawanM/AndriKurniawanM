@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndriKurniawanM&theme=tokyonight&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriKurniawanM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
+## 🏆GitHub Trophies 
 ![](https://github-trophies.vercel.app/?username=AndriKurniawanM&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
  
 ---
