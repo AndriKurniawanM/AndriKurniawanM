@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=AndriKurniawanM&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndriKurniawanM&theme=tokyonight&hide_border=false)<br/>
+![AndriKurniawanM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndriKurniawanM&theme=vue-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriKurniawanM&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
